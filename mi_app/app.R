@@ -26,8 +26,8 @@ server <- function(input, output) {
 }
 
 shinyApp(ui, server)
-options(download.file.method = "curl")
-shinylive::export("mi_app", "docs")
+#options(download.file.method = "curl")
+#shinylive::export("mi_app", "docs")
 
 
 
