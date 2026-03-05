@@ -31,12 +31,12 @@ shinyApp(ui, server)
 
 
 
-git init
-git add .
-git commit -m "primera app shinylive"
-git remote add origin https://github.com/tu_usuario/mi-shiny-app.git
-git push -u origin main
-```
+#git init
+#git add .
+#git commit -m "primera app shinylive"
+#git remote add origin https://github.com/tu_usuario/mi-shiny-app.git
+#git push -u origin main
+
 
 ### 5. Activa GitHub Pages
 
